@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qml/KuffmanTheme.qml</file>
+        <file>qml/KuffmanProgress.qml</file>
+        <file>qml/KuffmanList.qml</file>
+    </qresource>
+</RCC>
